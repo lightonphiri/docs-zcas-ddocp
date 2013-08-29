@@ -1,0 +1,3 @@
+- Lecture slides are in the 'slides' directory
+- Code examples from lectures and laboratory sessions are in the 'code' directory
+- Assignments ---problemsets et al.--- are in the 'assignments' directory
